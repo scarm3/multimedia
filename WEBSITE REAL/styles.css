@@ -34,3 +34,31 @@ li a:hover {
   background-color: #555;
   color: white;
 }
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+/* LinkedIn*/
+.fa-linkedin {
+  background:#202C6B;
+  color: white;
+}
+/* Instagam */
+.fa-instagram {
+  background:#FF00AD;
+  color: darkorange;
+}
